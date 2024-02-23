@@ -1,0 +1,7 @@
+.dropdown-toggle::after {
+  display: none;
+}
+
+.MuiCardMedia-media.MuiCardMedia-img {
+  height: 150px;
+}
